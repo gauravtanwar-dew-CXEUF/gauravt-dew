@@ -100,6 +100,7 @@ class _LoginState extends State<Login> {
                       border: OutlineInputBorder(borderRadius: BorderRadius.circular(30),
                       borderSide: BorderSide(width: 1,color: Colors.white)),
 
+
                       enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.all(Radius.circular(30)),
                         borderSide: BorderSide(width: 1,color: Colors.white)),
 
